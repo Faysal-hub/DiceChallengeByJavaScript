@@ -1,1 +1,1 @@
-It's make for a good JavaScript practice. Every time you refresh the browser you will get a new winer. The aim of the making this project is to understand the querySelector and setAttribute.
+It's made for a good JavaScript practice. Every time when you refresh the browser, you will get a new winer. The aim of the making this project is to understand the querySelector and setAttribute and how me can manipulate the DOM.
